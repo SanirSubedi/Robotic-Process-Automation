@@ -41,8 +41,10 @@ Automated library catalog search on HAMK Finna platform with intelligent navigat
 - Web element identification
 - Timing optimization
 
-[View Screenshots](img/Step-1.png) | [Documentation](docs/project1.md)
-
+**View Screenshots**
+- [Step1](img/Step-1.png)
+- [Step2](img/Step-2.png)
+- [Step3](img/Step-3.png)
 ---
 
 ### 2. Wikipedia Web Scraper (Robocorp)
@@ -74,7 +76,7 @@ def open_page():
 - Web element locators
 - Screenshot functionality
 
-[View Code](src/wikipedia_scraper.py) | [Screenshot](img/automation_website.png)
+[View Code Screenshot](img/automation_website.png)
 
 ---
 
@@ -116,7 +118,14 @@ def fill_and_submit_actor_form(music_rep):
 - Authentication handling
 - PDF generation from HTML
 
-[View Full Code](src/music_collection_automation.py) | [Output Samples](output/)
+[View Full Code](src/music_collection_automation.py)
+
+**View Result**
+- [ollection of Data](img/CollectionOFData)
+- [ResultProof1](img/ResultProof1.png)
+- [ResultProof2](img/ResultProof2.png) 
+
+
 
 ---
 
@@ -188,7 +197,7 @@ def test_item_by_price():
 - Price comparison algorithms
 - String manipulation and parsing
 
-[View Code](src/bookstore_automation.py) | [Excel Outputs](output/)
+[View Code](src/bookstore_automation.py) | [ Outputs](img/Output_result.png)
 
 ---
 
@@ -290,7 +299,7 @@ Solutions involved iterative debugging, HTML inspection, and integration of adva
 - Custom PDF generation
 - Advanced Python programming
 
-[View Full Code](src/expense_tracker_automation.py) | [Sample Output](output/summary_report.pdf) | [Screenshot](img/summary_image.png)
+[View Full Code](src/expense_tracker_automation.py) | [Sample Output](img/final_project_pdf.png) | [Screenshot](img/summary_image.png)
 
 ---
 
