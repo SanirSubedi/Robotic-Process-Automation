@@ -42,9 +42,9 @@ Automated library catalog search on HAMK Finna platform with intelligent navigat
 - Timing optimization
 
 **View Screenshots**
-- [Step1](img/Step-1.png)
-- [Step2](img/Step-2.png)
-- [Step3](img/Step-3.png)
+- [Step-1](img/Step-1.png)
+- [Step-2](img/Step-2.png)
+- [Step-3](img/Step-3.png)
 ---
 
 ### 2. Wikipedia Web Scraper (Robocorp)
@@ -121,7 +121,7 @@ def fill_and_submit_actor_form(music_rep):
 [View Full Code](src/music_collection_automation.py)
 
 **View Result**
-- [ollection of Data](img/CollectionOFData)
+- [Collection of Data](img/CollectionOFData)
 - [ResultProof1](img/ResultProof1.png)
 - [ResultProof2](img/ResultProof2.png) 
 
